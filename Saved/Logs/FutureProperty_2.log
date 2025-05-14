@@ -2768,3 +2768,19 @@ The following settings have been applied:
 [2025.05.14-12.42.20:811][101]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
 [2025.05.14-12.42.20:964][101]LogOVRPlugin: m_xrSession destroyed
 [2025.05.14-12.42.20:970][101]LogOVRPlugin: m_xrInstance destroyed
+[2025.05.14-12.43.09:971][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-12.43.10:064][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.05.14-12.43.10:174][ 73]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.05.14-12.43.10:175][ 73]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/VRTemplateMapBCEE84874697582F4BE99DA50741C5AB.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.05.14-12.43.10:195][ 73]LogFileHelpers: All files are already saved.
+[2025.05.14-12.43.10:195][ 73]LogFileHelpers: Saving map 'VRTemplateMap' took 0.163
+[2025.05.14-12.43.10:212][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.336 ms
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: Enabled validators:
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-12.43.10:296][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-12.43.10:298][ 73]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
