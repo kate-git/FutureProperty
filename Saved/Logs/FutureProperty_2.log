@@ -1999,3 +1999,1366 @@ The following settings have been applied:
 [2025.05.14-12.58.24:657][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.167793, Update Interval: 329.416779
 [2025.05.14-12.58.25:684][ 16]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: abe...1fd Access[Expires: 2025.05.14-14.58.23 Remaining: 7200.34] Refresh[Expires: 2025-11-10T09:36:05.834Z Remaining: 15539862.83] State: Valid
 [2025.05.14-12.58.26:015][ 16]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.05.14-12.58.27:012][ 19]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.05.14-12.58.27:012][ 19]LogFab: Display: User logged in
+[2025.05.14-12.58.27:012][ 19]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.05.14-12.58.27:706][ 21]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-TFG0W51vkUqp0RLMdbnUMg-ICIyI27Cfk-rDwUgJIxnOg]
+[2025.05.14-12.58.28:791][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.05.14-12.58.28:791][ 29]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.05.14-12.58.28:921][ 32]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.05.14-12.58.28:922][ 32]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.05.14-12.58.31:562][288]LogSlate: Window 'Plugins' being destroyed
+[2025.05.14-12.58.31:571][288]LogSlate: Window 'Plugins' being destroyed
+[2025.05.14-12.58.31:571][288]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Plugins/' was aborted.
+[2025.05.14-12.58.40:196][651]LogSlate: Took 0.001979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.14-12.58.52:760][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.14-12.58.52:760][599]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.05.14-12.58.52:877][604]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.14-12.58.52:877][604]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.05.14-12.58.52:965][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.05.14-12.58.52:965][610]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.05.14-12.58.53:064][617]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.14-12.58.53:064][617]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.05.14-12.58.53:135][620]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.14-12.58.53:136][620]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.05.14-12.58.56:955][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2025.05.14-12.58.56:956][643]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.14-12.58.56:957][643]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.05.14-12.58.57:200][643]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.14-12.58.57:387][643]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81cac1 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81c8a9 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b91b794 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7f169a UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b95ad2e UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b83461c UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b75e017 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+
+[2025.05.14-12.58.58:454][643]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.05.14-12.59.10:136][ 86]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81cac1 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b848e11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8174ff UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+
+[2025.05.14-12.59.10:143][ 86]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8252af UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81753d UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffb711f3d3a UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.05.14-12.59.11:617][160]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81cac1 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b848e11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8174ff UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+
+[2025.05.14-12.59.11:623][160]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8252af UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b81753d UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffb711f3d3a UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.05.14-12.59.21:798][506]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8c1911 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b848e11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8c06e8 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+
+[2025.05.14-12.59.21:805][506]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8252af UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8c0723 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffb711f3d3a UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.05.14-12.59.23:891][635]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8c1911 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b848e11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b91f3ee UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+
+[2025.05.14-12.59.23:896][635]LogClass: Warning: Short type name "EMRUKComponentType" provided for TryFindType. Please convert it to a path name (suggested: "/Script/MRUtilityKit.EMRUKComponentType"). Callstack:
+
+0x00007ffbaa33085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffb6b7a947b UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b8252af UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b91f429 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7ecd11 UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb6b7705fb UnrealEditor-BlueprintGraph.dll!UnknownFunction []
+0x00007ffb711b939b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffb753ece75 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffb711f3d3a UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2025.05.14-12.59.24:407][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.14-12.59.24:407][663]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.05.14-13.00.08:280][ 82]LogDerivedDataCache: C:/Users/Aerlu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.14-13.01.19:558][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.14-13.01.20:769][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-13.01.20:853][764]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.05.14-13.01.20:868][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2025.05.14-13.01.20:868][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2025.05.14-13.01.20:868][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2025.05.14-13.01.20:926][764]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2025.05.14-13.01.20:928][764]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/VRPawn5567D960445F8320065BB7BD1F6E27BF.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2025.05.14-13.01.20:945][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.167 ms
+[2025.05.14-13.01.21:023][764]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.14-13.01.21:023][764]LogContentValidation: Enabled validators:
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-13.01.21:023][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-13.01.21:023][764]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2025.05.14-13.01.27:859][136]LogSlate: Window 'VRPawn' being destroyed
+[2025.05.14-13.01.27:870][136]LogSlate: Window 'VRPawn' being destroyed
+[2025.05.14-13.01.27:875][136]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.01.27:875][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.01.27:967][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.14-13.01.43:829][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2025.05.14-13.01.43:829][470]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.14-13.01.43:830][470]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.05.14-13.03.11:980][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.14-13.03.12:720][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.14-13.03.12:785][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2025.05.14-13.03.12:795][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2025.05.14-13.03.12:795][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2025.05.14-13.03.12:795][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2025.05.14-13.03.12:846][833]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2025.05.14-13.03.12:848][833]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/VRPawn40B7AF8A48D671F0A410BE8DD1EE75E8.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2025.05.14-13.03.12:865][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.480 ms (total: 321.648 ms)
+[2025.05.14-13.03.12:937][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.14-13.03.12:937][833]LogContentValidation: Enabled validators:
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.14-13.03.12:937][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.14-13.03.12:937][833]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2025.05.14-13.03.17:443][924]LogSlate: Window 'VRPawn' being destroyed
+[2025.05.14-13.03.17:452][924]LogSlate: Window 'VRPawn' being destroyed
+[2025.05.14-13.03.17:458][924]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.03.17:458][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.03.17:518][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.14-13.03.19:020][ 76]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.05.14-13.03.19:032][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-13.03.19:033][ 76]LogHMD: Initializing OVRPlugin session
+[2025.05.14-13.03.19:033][ 76]LogOculusPluginWrapper: Warning: wrapper already initialized
+[2025.05.14-13.03.19:033][ 76]LogOVRPlugin: Display: CompositorOpenXR::PreInitialize(activity = 0000000000000000, apiType = 0, preinitializeFlags=0x10)
+[2025.05.14-13.03.19:033][ 76]LogOVRPlugin: Display: Support Non-Oculus runtime: NO
+[2025.05.14-13.03.19:033][ 76]LogOVRPlugin: Display:  -- Set xrGetInstanceProcAddr to OpenXR Loader
+[2025.05.14-13.03.19:033][ 76]LogOVRPlugin: Display: Warning: xrGetInstanceProcAddr has already been set
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.03.19:112][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.03.19:113][ 76]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.03.19:114][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.03.19:115][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.03.19:116][ 76]LogOVRPlugin: Display: Available Layers: (0)
+[2025.05.14-13.03.19:121][ 76]LogOVRPlugin: Display: Preinitialize: xrCreateInstance() succeeded
+[2025.05.14-13.03.19:121][ 76]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.03.19:122][ 76]LogOVRPlugin: Display: OpenXR runtime supports XR_META_headset_id extension
+[2025.05.14-13.03.19:122][ 76]LogOVRPlugin: Display: xrGetSystem() failed, which might be caused by a temporarly HMD connectivity issue. xrInstance to be destroyed
+[2025.05.14-13.03.19:127][ 76]LogHMD: Failed initializing OVRPlugin 1.108.0
+[2025.05.14-13.03.19:127][ 76]LogHMD: HMD initialization failed
+[2025.05.14-13.03.19:136][ 76]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.14-13.03.19:136][ 76]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.14-13.03.19:137][ 76]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.03.19:148][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010770s)
+[2025.05.14-13.03.19:148][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010827s)
+[2025.05.14-13.03.19:164][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.14-13.03.19:167][ 76]LogMRUK: Loading MR Utility Kit Shared library
+[2025.05.14-13.03.19:224][ 76]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.05.14-13.03.19:226][ 76]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.05.14-13.03.19:227][ 76]LogPlayLevel: PIE: World Init took: (0.002596s)
+[2025.05.14-13.03.19:228][ 76]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.14-13.03.19:228][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.14-13.03.19:228][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-13.03.19:228][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-13.03.19:228][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-13.03.19:228][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-13.03.19:231][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-13.03.19:335][ 76]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2025.05.14-13.03.19:335][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-13.03.19:335][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-13.03.19:335][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-13.03.19:336][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.14-13.03.19:336][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.14-13.03.19:340][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.14-13.03.19:340][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.14-13.03.19:340][ 76]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.14-13.03.19:340][ 76]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2025.05.14-13.03.19:340][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.14-13.03.19:362][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.03.19:363][ 76]LogHMD: DynamicResolution: Enabled. PixelDensityMin: 0.800000, PixelDensityMax: 1.200000
+[2025.05.14-13.03.19:363][ 76]LogHMD: Collecting Telemetry Data
+[2025.05.14-13.03.19:363][ 76]LogHMD: Initializing OVRPlugin session
+[2025.05.14-13.03.19:364][ 76]LogOculusPluginWrapper: Warning: wrapper already initialized
+[2025.05.14-13.03.19:364][ 76]LogOVRPlugin: Display: CompositorOpenXR::PreInitialize(activity = 0000000000000000, apiType = 0, preinitializeFlags=0x10)
+[2025.05.14-13.03.19:364][ 76]LogOVRPlugin: Display: Support Non-Oculus runtime: NO
+[2025.05.14-13.03.19:364][ 76]LogOVRPlugin: Display:  -- Set xrGetInstanceProcAddr to OpenXR Loader
+[2025.05.14-13.03.19:364][ 76]LogOVRPlugin: Display: Warning: xrGetInstanceProcAddr has already been set
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.03.19:444][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.03.19:445][ 76]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.03.19:446][ 76]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.03.19:447][ 76]LogOVRPlugin: Display: Available Layers: (0)
+[2025.05.14-13.03.19:454][ 76]LogOVRPlugin: Display: Preinitialize: xrCreateInstance() succeeded
+[2025.05.14-13.03.19:454][ 76]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.03.19:454][ 76]LogOVRPlugin: Display: OpenXR runtime supports XR_META_headset_id extension
+[2025.05.14-13.03.19:454][ 76]LogOVRPlugin: Display: xrGetSystem() failed, which might be caused by a temporarly HMD connectivity issue. xrInstance to be destroyed
+[2025.05.14-13.03.19:460][ 76]LogHMD: Failed initializing OVRPlugin 1.108.0
+[2025.05.14-13.03.19:460][ 76]LogHMD: HMD initialization failed
+[2025.05.14-13.03.19:496][ 76]LogLoad: Game class is 'VRGameMode_C'
+[2025.05.14-13.03.19:502][ 76]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.05.14-15.03.19
+[2025.05.14-13.03.19:502][ 76]LogWorld: Bringing up level for play took: 0.005516
+[2025.05.14-13.03.19:507][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.05.14-13.03.19:523][ 76]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.05.14-13.03.19:527][ 76]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.03.19:546][ 76]PIE: Server logged in
+[2025.05.14-13.03.19:548][ 76]PIE: Play in editor total start time 0.519 seconds.
+[2025.05.14-13.03.46:588][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.03.46:588][844]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.03.46:623][844]LogSlate: Window 'FutureProperty Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.108.0' being destroyed
+[2025.05.14-13.03.46:632][844]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.03.46:634][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.03.46:641][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-13.03.46:650][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.03.46:680][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.14-13.03.46:680][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.14-13.03.46:684][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.14-13.03.46:694][844]LogSlate: Slate User Unregistered.  User Index 8
+[2025.05.14-13.03.46:694][844]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.03.46:697][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.14-13.03.46:799][845]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.05.14-13.03.48:542][ 27]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.05.14-13.03.48:561][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-13.03.48:561][ 27]LogHMD: Initializing OVRPlugin session
+[2025.05.14-13.03.48:561][ 27]LogOculusPluginWrapper: Warning: wrapper already initialized
+[2025.05.14-13.03.48:561][ 27]LogOVRPlugin: Display: CompositorOpenXR::PreInitialize(activity = 0000000000000000, apiType = 0, preinitializeFlags=0x10)
+[2025.05.14-13.03.48:561][ 27]LogOVRPlugin: Display: Support Non-Oculus runtime: NO
+[2025.05.14-13.03.48:561][ 27]LogOVRPlugin: Display:  -- Set xrGetInstanceProcAddr to OpenXR Loader
+[2025.05.14-13.03.48:561][ 27]LogOVRPlugin: Display: Warning: xrGetInstanceProcAddr has already been set
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.03.48:665][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.03.48:667][ 27]LogOVRPlugin: Display: Available Layers: (0)
+[2025.05.14-13.03.48:670][ 27]LogOVRPlugin: Display: Preinitialize: xrCreateInstance() succeeded
+[2025.05.14-13.03.48:670][ 27]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.03.48:670][ 27]LogOVRPlugin: Display: OpenXR runtime supports XR_META_headset_id extension
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display: Preinitialize: xrGetSystem() succeeded. xrSystemId 23
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display: OpenXR headset id system properties:
+  id 6409E3B350894ED6868EAAED82DA3676
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display: VkInstanceExtensions:
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_surface
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_external_memory_capabilities
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_win32_surface
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_external_fence_capabilities
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_external_semaphore_capabilities
+[2025.05.14-13.03.48:673][ 27]LogOVRPlugin: Display:   VK_KHR_get_physical_device_properties2
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display: VkDeviceExtensions:
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_swapchain
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_memory
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_memory_win32
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_fence
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_fence_win32
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_semaphore
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_external_semaphore_win32
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_get_memory_requirements2
+[2025.05.14-13.03.48:674][ 27]LogOVRPlugin: Display:   VK_KHR_dedicated_allocation
+[2025.05.14-13.03.48:679][ 27]LogOVRPlugin: Display: Preinitialize: xrDestroyInstance() succeeded
+[2025.05.14-13.03.48:680][ 27]LogOVRPlugin: CompositorOpenXR::PreInitialize() -- succeeded
+[2025.05.14-13.03.48:680][ 27]LogOVRPlugin: Display: ProfilerSystem: verbose mode 0
+[2025.05.14-13.03.48:680][ 27]LogOVRPlugin: Display: OVRPlugin 1.108.0 ... preinitialized
+[2025.05.14-13.03.48:680][ 27]LogHMD: Could not determine HMD display adapter
+[2025.05.14-13.03.48:680][ 27]LogHMD: Could not determine HMD audio input device
+[2025.05.14-13.03.48:680][ 27]LogHMD: Could not determine HMD audio output device
+[2025.05.14-13.03.48:680][ 27]LogHMD: FOculusXRHMDModule PreInit successfully
+[2025.05.14-13.03.48:682][ 27]LogOVRPlugin: Display: OpenXR SDK version 1.1.42
+[2025.05.14-13.03.48:682][ 27]LogOVRPlugin: Display: commandQueue is null
+[2025.05.14-13.03.48:682][ 27]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2025.05.14-13.03.48:682][ 27]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.03.48:779][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.03.48:780][ 27]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.03.48:810][ 27]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2025.05.14-13.03.48:810][ 27]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.03.48:813][ 27]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 23
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Meta Quest 3, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR simultaneous hands+controllers system properties:
+  hand tracking supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking fidelity supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  full body tracking supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking calibration supported 1
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR headset id system properties:
+  id 6409E3B350894ED6868EAAED82DA3676
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: OpenXR environment depth system properties:
+ environment depth supported 1, hand removal supported 0
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.03.49:005][ 27]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Error: Unable to open file RuntimeActionBindings.json (arvr\projects\integrations\OVRPlugin\Src\Util\RuntimeActionLoader.cpp:181)
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: XRCreateActions: No runtime input actions were loaded as the file 'RuntimeInputActions.json' didn't exist. If you were expecting this file to exist or to support Cascadia devices like Kadavu this is a problem. Otherwise, you can ignore this warning.
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2025.05.14-13.03.49:007][ 27]LogOVRPlugin: Display: OVRPlugin 1.108.0 ... initialized
+[2025.05.14-13.03.49:009][ 27]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\OVRPlugin\Src\Util\CompositorOpenXR.cpp:12414)
+[2025.05.14-13.03.49:010][ 27]LogOVRPlugin: xrCreateSession
+[2025.05.14-13.03.49:537][ 27]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=78 time=4320230648400
+[2025.05.14-13.03.49:537][ 27]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.03.49:537][ 27]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=78 time=4320230664900
+[2025.05.14-13.03.49:537][ 27]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.03.49:537][ 27]LogOVRPlugin: HandleSingleOpenXREvent: XR_TYPE_EVENT_DATA_BOUNDARY_VISIBILITY_CHANGED_META
+[2025.05.14-13.03.49:548][ 27]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005A, 3 stages
+[2025.05.14-13.03.49:548][ 27]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F38BA6810
+[2025.05.14-13.03.49:548][ 27]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F38BA84C0
+[2025.05.14-13.03.49:548][ 27]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F38BA8E50
+[2025.05.14-13.03.49:809][ 27]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::CreateDepthSwapChain(): [depthStencil] CreateSwapchain for eye 0: 000000000000005B, 3 stages
+[2025.05.14-13.03.49:809][ 27]LogOVRPlugin:  ... m_depthTextureStages[0][0] = 0000017F38BA7B30
+[2025.05.14-13.03.49:809][ 27]LogOVRPlugin:  ... m_depthTextureStages[0][1] = 0000017F38BE6B60
+[2025.05.14-13.03.49:809][ 27]LogOVRPlugin:  ... m_depthTextureStages[0][2] = 0000017F38BE74F0
+[2025.05.14-13.03.49:809][ 27]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2025.05.14-13.03.49:810][ 27]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2025.05.14-13.03.49:812][ 27]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.03.49:821][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009446s)
+[2025.05.14-13.03.49:821][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.009497s)
+[2025.05.14-13.03.49:837][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.05.14-13.03.49:838][ 27]LogMRUK: Loading MR Utility Kit Shared library
+[2025.05.14-13.03.49:906][ 27]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.05.14-13.03.49:907][ 27]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.05.14-13.03.49:907][ 27]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2025.05.14-13.03.49:909][ 27]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.14-13.03.49:909][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.14-13.03.49:909][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-13.03.49:909][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-13.03.49:909][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-13.03.49:909][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-13.03.49:912][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-13.03.49:934][ 27]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.05.14-13.03.49:935][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-13.03.49:935][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-13.03.49:935][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-13.03.49:935][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.14-13.03.49:935][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.14-13.03.49:940][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.14-13.03.49:940][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.14-13.03.49:940][ 27]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.14-13.03.49:940][ 27]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2025.05.14-13.03.49:940][ 27]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.14-13.03.49:969][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.03.49:969][ 27]LogHMD: DynamicResolution: Enabled. PixelDensityMin: 0.800000, PixelDensityMax: 1.200000
+[2025.05.14-13.03.49:969][ 27]LogHMD: Collecting Telemetry Data
+[2025.05.14-13.03.50:094][ 27]LogLoad: Game class is 'VRGameMode_C'
+[2025.05.14-13.03.50:105][ 27]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.05.14-15.03.50
+[2025.05.14-13.03.50:107][ 27]LogWorld: Bringing up level for play took: 0.011456
+[2025.05.14-13.03.50:112][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.05.14-13.03.50:115][ 27]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.05.14-13.03.50:119][ 27]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.03.50:127][ 27]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.03.50:134][ 27]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandLeft.OculusHandMesh
+[2025.05.14-13.03.50:153][ 27]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (OculusHandMesh) ...
+[2025.05.14-13.03.50:162][ 27]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.03.50:164][ 27]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandRight.OculusHandMesh
+[2025.05.14-13.03.50:174][ 27]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.05.14-13.03.50:180][ 27]PIE: Server logged in
+[2025.05.14-13.03.50:182][ 27]PIE: Play in editor total start time 1.622 seconds.
+[2025.05.14-13.03.50:184][ 27]LogOculusXRScene: FOculusXRSceneEventHandling - Boundary visibility changed. Visibility(EOculusXRBoundaryVisibility::NotSuppressed)
+[2025.05.14-13.03.51:037][ 27]LogRenderer: Warning: Resizing VR buffer to 4128 by 2272
+[2025.05.14-13.03.51:038][ 27]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2025.05.14-13.03.51:057][ 27]LogSlate: Took 0.000913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.05.14-13.04.06:799][ 28]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4337906769000
+[2025.05.14-13.04.06:799][ 28]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.06:812][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 350.660461
+[2025.05.14-13.04.06:844][ 29]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.05.14-13.04.07:292][ 31]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005C, 3 stages
+[2025.05.14-13.04.07:292][ 31]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F38703EE0
+[2025.05.14-13.04.07:292][ 31]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F38706900
+[2025.05.14-13.04.07:292][ 31]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F3870BD40
+[2025.05.14-13.04.07:929][ 32]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=78 time=4339036515600
+[2025.05.14-13.04.07:929][ 32]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.04.07:929][ 32]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=78 time=4339036529399
+[2025.05.14-13.04.07:929][ 32]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2025.05.14-13.04.08:026][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.14-13.04.08:026][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 351.154327, Update Interval: 350.306091
+[2025.05.14-13.04.08:029][ 33]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_FOCUSED->XR_SESSION_STATE_VISIBLE session=78 time=4343749146000
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4343749159700
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4343749325099
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.12:642][ 35]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 8 outside of frame bounds
+[2025.05.14-13.04.12:646][ 35]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 8 outside of frame bounds
+[2025.05.14-13.04.12:812][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4343749325099
+[2025.05.14-13.04.12:812][ 35]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.12:823][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4343749325099
+[2025.05.14-13.04.12:824][ 35]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.04.12:824][ 35]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_STOPPING->XR_SESSION_STATE_IDLE session=78 time=4343930336800
+[2025.05.14-13.04.12:824][ 35]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.04.12:876][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.04.12:876][ 35]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.04.13:329][ 35]LogSlate: Window 'FutureProperty Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.108.0' being destroyed
+[2025.05.14-13.04.13:370][ 35]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.04.13:372][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.04.13:376][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-13.04.13:385][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.04.13:418][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.14-13.04.13:418][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.14-13.04.13:421][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.14-13.04.13:430][ 35]LogSlate: Slate User Unregistered.  User Index 8
+[2025.05.14-13.04.13:430][ 35]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.04.13:433][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.14-13.04.13:527][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.05.14-13.04.13:528][ 36]LogHMD: Warning: Destroying layer 1
+[2025.05.14-13.04.13:534][ 36]LogHMD: Warning: Destroying layer 2
+[2025.05.14-13.04.13:536][ 36]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2025.05.14-13.04.13:705][ 36]LogOVRPlugin: m_xrSession destroyed
+[2025.05.14-13.04.13:723][ 36]LogOVRPlugin: m_xrInstance destroyed
+[2025.05.14-13.04.15:001][ 47]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.05.14-13.04.15:010][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-13.04.15:010][ 47]LogHMD: Initializing OVRPlugin session
+[2025.05.14-13.04.15:010][ 47]LogOVRPlugin: Display: OpenXR SDK version 1.1.42
+[2025.05.14-13.04.15:010][ 47]LogOVRPlugin: Display: commandQueue is null
+[2025.05.14-13.04.15:010][ 47]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2025.05.14-13.04.15:010][ 47]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.04.15:144][ 47]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.04.15:146][ 47]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.04.15:147][ 47]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.04.15:185][ 47]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2025.05.14-13.04.15:185][ 47]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.04.15:187][ 47]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 23
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Meta Quest 3, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR simultaneous hands+controllers system properties:
+  hand tracking supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking fidelity supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  full body tracking supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking calibration supported 1
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR headset id system properties:
+  id 6409E3B350894ED6868EAAED82DA3676
+[2025.05.14-13.04.15:387][ 47]LogOVRPlugin: Display: OpenXR environment depth system properties:
+ environment depth supported 1, hand removal supported 0
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Error: Unable to open file RuntimeActionBindings.json (arvr\projects\integrations\OVRPlugin\Src\Util\RuntimeActionLoader.cpp:181)
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: XRCreateActions: No runtime input actions were loaded as the file 'RuntimeInputActions.json' didn't exist. If you were expecting this file to exist or to support Cascadia devices like Kadavu this is a problem. Otherwise, you can ignore this warning.
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2025.05.14-13.04.15:389][ 47]LogOVRPlugin: Display: OVRPlugin 1.108.0 ... initialized
+[2025.05.14-13.04.15:390][ 47]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\OVRPlugin\Src\Util\CompositorOpenXR.cpp:12414)
+[2025.05.14-13.04.15:390][ 47]LogOVRPlugin: xrCreateSession
+[2025.05.14-13.04.15:898][ 47]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=78 time=4346644435899
+[2025.05.14-13.04.15:899][ 47]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.04.15:899][ 47]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=78 time=4346644445600
+[2025.05.14-13.04.15:899][ 47]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.15:899][ 47]LogOVRPlugin: HandleSingleOpenXREvent: XR_TYPE_EVENT_DATA_BOUNDARY_VISIBILITY_CHANGED_META
+[2025.05.14-13.04.16:038][ 47]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005A, 3 stages
+[2025.05.14-13.04.16:038][ 47]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F33DC0350
+[2025.05.14-13.04.16:038][ 47]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F33DBD380
+[2025.05.14-13.04.16:038][ 47]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F33DC2000
+[2025.05.14-13.04.16:233][ 47]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::CreateDepthSwapChain(): [depthStencil] CreateSwapchain for eye 0: 000000000000005B, 3 stages
+[2025.05.14-13.04.16:233][ 47]LogOVRPlugin:  ... m_depthTextureStages[0][0] = 0000017F33DC1670
+[2025.05.14-13.04.16:233][ 47]LogOVRPlugin:  ... m_depthTextureStages[0][1] = 0000017F33DC3320
+[2025.05.14-13.04.16:233][ 47]LogOVRPlugin:  ... m_depthTextureStages[0][2] = 0000017F33DC5960
+[2025.05.14-13.04.16:234][ 47]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2025.05.14-13.04.16:234][ 47]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2025.05.14-13.04.16:234][ 47]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.04.16:248][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014631s)
+[2025.05.14-13.04.16:248][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.014687s)
+[2025.05.14-13.04.16:275][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.14-13.04.16:277][ 47]LogMRUK: Loading MR Utility Kit Shared library
+[2025.05.14-13.04.16:361][ 47]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.05.14-13.04.16:364][ 47]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.05.14-13.04.16:364][ 47]LogPlayLevel: PIE: World Init took: (0.002859s)
+[2025.05.14-13.04.16:365][ 47]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.14-13.04.16:365][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.14-13.04.16:365][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-13.04.16:365][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-13.04.16:365][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-13.04.16:365][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-13.04.16:370][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.14-13.04.16:395][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.14-13.04.16:400][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.14-13.04.16:402][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.14-13.04.16:402][ 47]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.14-13.04.16:402][ 47]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2025.05.14-13.04.16:402][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.14-13.04.16:724][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.04.16:724][ 47]LogHMD: DynamicResolution: Enabled. PixelDensityMin: 0.800000, PixelDensityMax: 1.200000
+[2025.05.14-13.04.16:724][ 47]LogHMD: Collecting Telemetry Data
+[2025.05.14-13.04.16:773][ 47]LogLoad: Game class is 'VRGameMode_C'
+[2025.05.14-13.04.16:780][ 47]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.05.14-15.04.16
+[2025.05.14-13.04.16:781][ 47]LogWorld: Bringing up level for play took: 0.007039
+[2025.05.14-13.04.16:784][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.05.14-13.04.16:787][ 47]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.05.14-13.04.16:789][ 47]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.04.16:790][ 47]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.04.16:793][ 47]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandLeft.OculusHandMesh
+[2025.05.14-13.04.16:802][ 47]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.04.16:803][ 47]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandRight.OculusHandMesh
+[2025.05.14-13.04.16:812][ 47]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.05.14-13.04.16:818][ 47]PIE: Server logged in
+[2025.05.14-13.04.16:821][ 47]PIE: Play in editor total start time 1.811 seconds.
+[2025.05.14-13.04.16:823][ 47]LogOculusXRScene: FOculusXRSceneEventHandling - Boundary visibility changed. Visibility(EOculusXRBoundaryVisibility::NotSuppressed)
+[2025.05.14-13.04.21:502][ 47]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2025.05.14-13.04.29:019][ 48]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4360125826900
+[2025.05.14-13.04.29:019][ 48]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.29:055][ 49]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.05.14-13.04.29:832][ 51]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=78 time=4360938728899
+[2025.05.14-13.04.29:832][ 51]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.04.29:832][ 51]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=78 time=4360938745599
+[2025.05.14-13.04.29:832][ 51]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2025.05.14-13.04.35:015][ 51]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000622DFC8CB00) on the [0x00000622E1247000, Compute] queue has not completed after 5.000004 seconds.
+[2025.05.14-13.04.37:992][ 51]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005C, 3 stages
+[2025.05.14-13.04.37:992][ 51]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F34020450
+[2025.05.14-13.04.37:992][ 51]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F34022E70
+[2025.05.14-13.04.37:992][ 51]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F34025890
+[2025.05.14-13.04.38:169][ 52]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2025.05.14-13.04.46:242][ 82]LogTemp: System Gesture Behavior was set to Swap Material but no System Gesture Material was provided!
+[2025.05.14-13.04.46:242][ 82]LogTemp: System Gesture Behavior was set to Swap Material but no System Gesture Material was provided!
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_FOCUSED->XR_SESSION_STATE_VISIBLE session=78 time=4384733332500
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4384733343299
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4384733445199
+[2025.05.14-13.04.53:627][103]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.53:633][104]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4384733445199
+[2025.05.14-13.04.53:633][104]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.53:633][104]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 57 outside of frame bounds
+[2025.05.14-13.04.53:645][105]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 57 outside of frame bounds
+[2025.05.14-13.04.53:645][105]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4384733445199
+[2025.05.14-13.04.53:645][105]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.04.53:645][105]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 58 outside of frame bounds
+[2025.05.14-13.04.53:649][105]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4384733445199
+[2025.05.14-13.04.53:649][105]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.04.53:649][105]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_STOPPING->XR_SESSION_STATE_IDLE session=78 time=4384756010899
+[2025.05.14-13.04.53:649][105]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.04.58:922][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.04.58:922][414]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.04.58:990][414]LogSlate: Window 'FutureProperty Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.108.0' being destroyed
+[2025.05.14-13.04.59:018][414]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.04.59:020][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.04.59:026][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-13.04.59:037][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.04.59:069][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.14-13.04.59:069][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.14-13.04.59:072][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.14-13.04.59:083][414]LogSlate: Slate User Unregistered.  User Index 8
+[2025.05.14-13.04.59:083][414]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.04.59:084][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.05.14-13.04.59:202][415]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.05.14-13.04.59:204][415]LogHMD: Warning: Destroying layer 1
+[2025.05.14-13.04.59:208][415]LogHMD: Warning: Destroying layer 2
+[2025.05.14-13.04.59:209][415]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2025.05.14-13.04.59:422][415]LogOVRPlugin: m_xrSession destroyed
+[2025.05.14-13.04.59:429][415]LogOVRPlugin: m_xrInstance destroyed
+[2025.05.14-13.05.33:307][673]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.05.14-13.05.33:317][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.14-13.05.33:317][673]LogHMD: Initializing OVRPlugin session
+[2025.05.14-13.05.33:317][673]LogOVRPlugin: Display: OpenXR SDK version 1.1.42
+[2025.05.14-13.05.33:317][673]LogOVRPlugin: Display: commandQueue is null
+[2025.05.14-13.05.33:317][673]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2025.05.14-13.05.33:317][673]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display: Available Extensions: (73)
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=2
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_EXT_hand_interaction SpecVersion=1
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2025.05.14-13.05.33:402][673]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking_data_source SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_hand_tracking_microgestures SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_passthrough SpecVersion=4
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_passthrough_layer_resumed_event SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_triangle_mesh SpecVersion=2
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_passthrough_color_lut SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_passthrough_preferences SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=3
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_persistence SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_discovery SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_group_sharing SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_sharing SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_boundary_visibility SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_colocation_discovery SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_METAX1_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_tracker SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_dynamic_object_keyboard SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_environment_depth SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_LOGITECH_mx_ink_stylus_interaction SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=3
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display:  Name=XR_EXT_eye_gaze_interaction SpecVersion=2
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_common_events
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_keyboard_tracking
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_METAX1_face_tracking_visemes
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2025.05.14-13.05.33:403][673]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_future
+[2025.05.14-13.05.33:427][673]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2025.05.14-13.05.33:427][673]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.108.0
+[2025.05.14-13.05.33:428][673]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 23
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Meta Quest 3, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR simultaneous hands+controllers system properties:
+  hand tracking supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking fidelity supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  full body tracking supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking calibration supported 1
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR headset id system properties:
+  id 6409E3B350894ED6868EAAED82DA3676
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: OpenXR environment depth system properties:
+ environment depth supported 1, hand removal supported 0
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.05.33:574][673]LogOVRPlugin: Display:   View: Recommended Width=2064 Height=2272 SampleCount=1 Maximum Width=4128 Height=4544 SampleCount=4
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Error: Unable to open file RuntimeActionBindings.json (arvr\projects\integrations\OVRPlugin\Src\Util\RuntimeActionLoader.cpp:181)
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: XRCreateActions: No runtime input actions were loaded as the file 'RuntimeInputActions.json' didn't exist. If you were expecting this file to exist or to support Cascadia devices like Kadavu this is a problem. Otherwise, you can ignore this warning.
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Display: OVRPlugin 1.108.0 ... initialized
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\OVRPlugin\Src\Util\CompositorOpenXR.cpp:12414)
+[2025.05.14-13.05.33:575][673]LogOVRPlugin: xrCreateSession
+[2025.05.14-13.05.33:995][673]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=78 time=4424771299000
+[2025.05.14-13.05.33:995][673]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.05.33:995][673]LogOVRPlugin: HandleSingleOpenXREvent: XR_TYPE_EVENT_DATA_BOUNDARY_VISIBILITY_CHANGED_META
+[2025.05.14-13.05.34:122][673]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005A, 3 stages
+[2025.05.14-13.05.34:122][673]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F39286400
+[2025.05.14-13.05.34:122][673]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F3928CD30
+[2025.05.14-13.05.34:122][673]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F3928A6F0
+[2025.05.14-13.05.34:132][673]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::CreateDepthSwapChain(): [depthStencil] CreateSwapchain for eye 0: 000000000000005B, 3 stages
+[2025.05.14-13.05.34:132][673]LogOVRPlugin:  ... m_depthTextureStages[0][0] = 0000017F3928BA10
+[2025.05.14-13.05.34:132][673]LogOVRPlugin:  ... m_depthTextureStages[0][1] = 0000017F39289D60
+[2025.05.14-13.05.34:132][673]LogOVRPlugin:  ... m_depthTextureStages[0][2] = 0000017F3928D6C0
+[2025.05.14-13.05.34:132][673]LogHMD: Allocating Oculus 4128 x 2272 rendertarget swapchain
+[2025.05.14-13.05.34:134][673]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2025.05.14-13.05.34:134][673]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.05.34:143][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008832s)
+[2025.05.14-13.05.34:143][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.008877s)
+[2025.05.14-13.05.34:157][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.14-13.05.34:159][673]LogMRUK: Loading MR Utility Kit Shared library
+[2025.05.14-13.05.34:208][673]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.05.14-13.05.34:209][673]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.05.14-13.05.34:209][673]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2025.05.14-13.05.34:211][673]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.14-13.05.34:211][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.14-13.05.34:211][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.14-13.05.34:211][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.14-13.05.34:211][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.14-13.05.34:211][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.14-13.05.34:214][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.14-13.05.34:236][673]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.05.14-13.05.34:237][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.14-13.05.34:237][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.14-13.05.34:237][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.14-13.05.34:237][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.14-13.05.34:237][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.14-13.05.34:241][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.14-13.05.34:241][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.14-13.05.34:241][673]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.14-13.05.34:241][673]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2025.05.14-13.05.34:241][673]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.14-13.05.34:265][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.05.34:265][673]LogHMD: DynamicResolution: Enabled. PixelDensityMin: 0.800000, PixelDensityMax: 1.200000
+[2025.05.14-13.05.34:265][673]LogHMD: Collecting Telemetry Data
+[2025.05.14-13.05.34:265][673]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=78 time=4425372178300
+[2025.05.14-13.05.34:265][673]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.34:307][673]LogLoad: Game class is 'VRGameMode_C'
+[2025.05.14-13.05.34:316][673]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.05.14-15.05.34
+[2025.05.14-13.05.34:316][673]LogWorld: Bringing up level for play took: 0.008644
+[2025.05.14-13.05.34:321][673]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.05.14-13.05.34:324][673]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.05.14-13.05.34:325][673]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.05.34:328][673]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.05.34:332][673]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandLeft.OculusHandMesh
+[2025.05.14-13.05.34:343][673]LogSkeletalMesh: Building Skeletal Mesh OculusHandMesh...
+[2025.05.14-13.05.34:344][673]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_0.OculusXRHandRight.OculusHandMesh
+[2025.05.14-13.05.34:354][673]xr.SecondaryScreenPercentage.HMDRenderTarget = "100"
+[2025.05.14-13.05.34:360][673]PIE: Server logged in
+[2025.05.14-13.05.34:364][673]PIE: Play in editor total start time 1.048 seconds.
+[2025.05.14-13.05.34:364][673]LogOculusXRScene: FOculusXRSceneEventHandling - Boundary visibility changed. Visibility(EOculusXRBoundaryVisibility::NotSuppressed)
+[2025.05.14-13.05.34:923][673]LogHMD: Allocating Oculus 4128 x 2272 depth rendertarget swapchain
+[2025.05.14-13.05.35:317][674]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4426423196600
+[2025.05.14-13.05.35:317][674]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.35:347][675]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.05.14-13.05.35:828][677]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 000000000000005C, 3 stages
+[2025.05.14-13.05.35:828][677]LogOVRPlugin:  ... m_textureStages[0][0] = 0000017F377E3990
+[2025.05.14-13.05.35:828][677]LogOVRPlugin:  ... m_textureStages[0][1] = 0000017F377E63B0
+[2025.05.14-13.05.35:828][677]LogOVRPlugin:  ... m_textureStages[0][2] = 0000017F728295B0
+[2025.05.14-13.05.36:074][678]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=78 time=4427180997699
+[2025.05.14-13.05.36:074][678]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.05.36:074][678]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=78 time=4427181016000
+[2025.05.14-13.05.36:074][678]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2025.05.14-13.05.36:091][679]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2025.05.14-13.05.38:478][687]LogTemp: System Gesture Behavior was set to Swap Material but no System Gesture Material was provided!
+[2025.05.14-13.05.38:750][688]LogTemp: System Gesture Behavior was set to Swap Material but no System Gesture Material was provided!
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_FOCUSED->XR_SESSION_STATE_VISIBLE session=78 time=4440919610100
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_SYNCHRONIZED session=78 time=4440919620400
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4440919743100
+[2025.05.14-13.05.49:813][728]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.49:834][729]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4440919743100
+[2025.05.14-13.05.49:834][729]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.49:834][729]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 56 outside of frame bounds
+[2025.05.14-13.05.49:838][730]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 56 outside of frame bounds
+[2025.05.14-13.05.49:839][730]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4440919743100
+[2025.05.14-13.05.49:839][730]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2025.05.14-13.05.49:839][730]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 57 outside of frame bounds
+[2025.05.14-13.05.50:016][730]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=78 time=4440919743100
+[2025.05.14-13.05.50:016][730]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.05.50:016][730]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_STOPPING->XR_SESSION_STATE_IDLE session=78 time=4441123185500
+[2025.05.14-13.05.50:016][730]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2025.05.14-13.05.52:509][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.14-13.05.52:509][741]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.05.14-13.05.52:764][741]LogSlate: Window 'FutureProperty Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.108.0' being destroyed
+[2025.05.14-13.05.52:798][741]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.14-13.05.52:799][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.05.52:802][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.14-13.05.52:807][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.14-13.05.52:829][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.14-13.05.52:830][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.14-13.05.52:834][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.14-13.05.52:841][741]LogSlate: Slate User Unregistered.  User Index 8
+[2025.05.14-13.05.52:841][741]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.05.14-13.05.52:842][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.14-13.05.52:946][742]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.14-13.05.52:946][742]LogHMD: Warning: Destroying layer 1
+[2025.05.14-13.05.52:952][742]LogHMD: Warning: Destroying layer 2
+[2025.05.14-13.05.52:955][742]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2025.05.14-13.05.53:119][742]LogOVRPlugin: m_xrSession destroyed
+[2025.05.14-13.05.53:125][742]LogOVRPlugin: m_xrInstance destroyed
