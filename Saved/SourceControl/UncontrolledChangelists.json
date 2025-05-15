@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/Meshes/M_Basic_Wall.uasset",
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/Meshes/Cube.uasset",
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/Meshes/FbxScene_houseboxing.uasset",
+				"C:/Users/Dioso/Documents/GitHub/FutureProperty/Content/Meshes/houseboxing.uasset",
 				"C:/Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Content/VRTemplate/Blueprints/VRPawn.uasset",
