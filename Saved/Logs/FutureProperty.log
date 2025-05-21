@@ -3782,3 +3782,131 @@ The following settings have been applied:
 [2025.05.20-10.15.22:071][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2025.05.20-10.15.22:095][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2025.05.20-10.15.22:128][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.20-10.16.08:103][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_HouseMenu.BP_HouseMenu
+[2025.05.20-10.16.08:103][730]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.05.20-10.16.08:104][730]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.05.20-10.16.18:333][268]LogSlate: Window 'BP_HouseMenu' being destroyed
+[2025.05.20-10.16.18:345][268]LogSlate: Window 'BP_HouseMenu' being destroyed
+[2025.05.20-10.16.18:365][268]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-10.16.18:365][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-10.16.18:373][268]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-10.16.18:373][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-10.16.18:414][268]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-10.16.18:414][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-10.16.18:517][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.20-10.16.20:785][400]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WBP_HouseInfo.WBP_HouseInfo
+[2025.05.20-10.16.20:785][400]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.05.20-10.16.20:785][400]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.05.20-10.16.20:793][400]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.20-10.16.20:794][400]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.05.20-10.19.39:987][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5454.939941
+[2025.05.20-10.19.40:989][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.19.40:989][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5455.610840, Update Interval: 303.193451
+[2025.05.20-10.20.07:454][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.20-10.20.07:524][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto7
+[2025.05.20-10.20.07:527][611]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/VRTemplateMap_Auto75693F3614895BC55312CDF82A4B85C3B.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto7.umap'
+[2025.05.20-10.20.07:532][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.137
+[2025.05.20-10.20.07:533][611]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.137
+[2025.05.20-10.20.07:533][611]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HouseInfo] ([2] browsable assets)...
+[2025.05.20-10.20.07:540][611]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HouseInfo.WBP_HouseInfo]
+[2025.05.20-10.20.07:540][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HouseInfo]
+[2025.05.20-10.20.07:544][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_HouseInfo_Auto7
+[2025.05.20-10.20.07:544][611]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/WBP_HouseInfo_Auto759C73274424108EAB543F5B21F5F82E6.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/WBP_HouseInfo_Auto7.uasset'
+[2025.05.20-10.20.07:545][611]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.05.20-10.21.40:745][789]LogEditorTransaction: Undo Wrap Widgets
+[2025.05.20-10.21.57:561][700]LogEditorTransaction: Undo Wrap Widgets
+[2025.05.20-10.23.27:051][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:055][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:059][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:063][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:068][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:071][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:075][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:078][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.27:081][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.05.20-10.23.44:907][509]LogEditorTransaction: Undo Remove Widget
+[2025.05.20-10.23.46:518][580]LogEditorTransaction: Undo Edit Is Enabled
+[2025.05.20-10.23.46:974][606]LogEditorTransaction: Undo Wrap Widgets
+[2025.05.20-10.24.35:596][454]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-10.24.42:756][868]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-10.25.02:045][  2]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-10.25.32:729][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5807.689453
+[2025.05.20-10.25.32:913][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.25.32:913][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5807.855469, Update Interval: 316.126587
+[2025.05.20-10.27.09:148][315]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.20-10.27.29:660][459]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.20-10.28.07:795][632]LogEditorTransaction: Undo Edit Tool Tip Text
+[2025.05.20-10.28.14:677][992]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.20-10.28.17:871][127]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.05.20-10.28.33:393][987]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-10.28.49:626][947]LogSlate: Window 'Color Picker' being destroyed
+[2025.05.20-10.30.08:419][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.20-10.30.08:482][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8
+[2025.05.20-10.30.08:482][155]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/VRTemplateMap_Auto8B4EBAE1245903CC16B8F2F836E3D4899.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8.umap'
+[2025.05.20-10.30.08:488][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.102
+[2025.05.20-10.30.08:489][155]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2025.05.20-10.30.08:489][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HouseInfo] ([2] browsable assets)...
+[2025.05.20-10.30.08:494][155]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HouseInfo.WBP_HouseInfo]
+[2025.05.20-10.30.08:495][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HouseInfo]
+[2025.05.20-10.30.08:499][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_HouseInfo_Auto8
+[2025.05.20-10.30.08:499][155]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/WBP_HouseInfo_Auto8A04282F7438DD37FE25EC59440E7332A.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/WBP_HouseInfo_Auto8.uasset'
+[2025.05.20-10.30.08:501][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_HouseMenu] ([2] browsable assets)...
+[2025.05.20-10.30.08:501][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_HouseMenu]
+[2025.05.20-10.30.08:501][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_HouseMenu" FILE="../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/BP_HouseMenu_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.20-10.30.08:505][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_HouseMenu_Auto8
+[2025.05.20-10.30.08:505][155]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/BP_HouseMenu_Auto8DD614A504EC5E1C33A6812B845F9D98B.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/BP_HouseMenu_Auto8.uasset'
+[2025.05.20-10.30.08:506][155]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.05.20-10.31.23:340][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6158.291016
+[2025.05.20-10.31.24:338][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.31.24:338][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6158.950195, Update Interval: 318.463074
+[2025.05.20-10.37.15:786][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6510.748535
+[2025.05.20-10.37.16:793][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.37.16:793][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6511.417969, Update Interval: 323.733032
+[2025.05.20-10.40.09:246][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.05.20-10.40.09:251][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.041
+[2025.05.20-10.40.09:252][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HouseInfo] ([2] browsable assets)...
+[2025.05.20-10.40.09:260][241]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HouseInfo.WBP_HouseInfo]
+[2025.05.20-10.40.09:260][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HouseInfo]
+[2025.05.20-10.40.09:264][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_HouseInfo_Auto9
+[2025.05.20-10.40.09:264][241]LogSavePackage: Moving '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/WBP_HouseInfo_Auto99D10CAEA43BB143A5C5DF7A88F99CCC1.tmp' to '../../../../../../Users/Aerlu/OneDrive/Documents/GitHub/FutureProperty/Saved/Autosaves/Game/WBP_HouseInfo_Auto9.uasset'
+[2025.05.20-10.40.09:266][241]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.05.20-10.43.28:530][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6883.487793
+[2025.05.20-10.43.29:531][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.43.29:531][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6884.152832, Update Interval: 327.140717
+[2025.05.20-10.47.18:903][530]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: abe...1fd
+[2025.05.20-10.47.18:903][530]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.81 RefreshExpires: 1.554e+07
+[2025.05.20-10.47.19:906][533]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: abe...1fd Access[Expires: 2025.05.20-12.47.13 Remaining: 7200.41] Refresh[Expires: 2025-11-16T08:47:52.090Z Remaining: 15544839.09] State: Valid
+[2025.05.20-10.49.31:259][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7246.213867
+[2025.05.20-10.49.32:259][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.49.32:259][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7246.880371, Update Interval: 342.992645
+[2025.05.20-10.50.31:755][109]LogDerivedDataCache: C:/Users/Aerlu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.20-10.55.45:649][ 51]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7620.610352
+[2025.05.20-10.55.46:647][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-10.55.46:647][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7621.274902, Update Interval: 358.840912
+[2025.05.20-11.02.33:717][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8028.675293
+[2025.05.20-11.02.34:718][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-11.02.34:718][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8029.342773, Update Interval: 349.018829
+[2025.05.20-11.09.06:113][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8421.058594
+[2025.05.20-11.09.07:115][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-11.09.07:115][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8421.726562, Update Interval: 342.891937
+[2025.05.20-13.23.47:861][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16502.798828
+[2025.05.20-13.23.47:861][579]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: abe...1fd
+[2025.05.20-13.23.47:861][579]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -2187 RefreshExpires: 1.554e+07
+[2025.05.20-13.23.49:639][583]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: abe...1fd Access[Expires: 2025.05.20-15.23.42 Remaining: 7200.84] Refresh[Expires: 2025-11-16T08:47:52.090Z Remaining: 15535450.09] State: Valid
+[2025.05.20-13.23.51:309][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-13.23.51:309][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16505.908203, Update Interval: 358.035217
+[2025.05.20-18.20.01:820][545]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: abe...1fd
+[2025.05.20-18.20.01:821][545]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -1.057e+04 RefreshExpires: 1.552e+07
+[2025.05.20-18.20.02:837][549]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: abe...1fd Access[Expires: 2025.05.20-20.19.56 Remaining: 7200.54] Refresh[Expires: 2025-11-16T08:47:52.090Z Remaining: 15517676.09] State: Valid
+[2025.05.20-18.20.54:184][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34334.906250
+[2025.05.20-18.20.55:183][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-18.20.55:183][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34335.570312, Update Interval: 321.907410
+[2025.05.20-19.41.16:545][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39157.113281
+[2025.05.20-19.41.17:545][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-19.41.17:545][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39157.777344, Update Interval: 332.507690
+[2025.05.21-01.07.33:379][429]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: abe...1fd
+[2025.05.21-01.07.33:379][429]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -1.726e+04 RefreshExpires: 1.549e+07
+[2025.05.21-01.07.35:394][433]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: abe...1fd Access[Expires: 2025.05.21-03.07.34 Remaining: 7200.90] Refresh[Expires: 2025-11-16T08:47:52.090Z Remaining: 15493218.09] State: Valid
+[2025.05.21-02.59.48:999][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 65469.503906
+[2025.05.21-02.59.51:283][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.21-02.59.51:283][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 65471.460938, Update Interval: 335.594971
