@@ -1,0 +1,42 @@
+
+# Unreal Engine standard gitignore
+
+# Ignore project-specific binary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore built plugins
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Ignore Visual Studio project files
+*.VC.db
+*.VC.opendb
+.vscode/
+.sln
+.suo
+*.opensdf
+*.sdf
+
+# Ignore temporary or system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Ignore user settings
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Build config (optional)
+Build/
+
+# Ignore Addressables and packaged data
+*.bin
+
+# Ignore logs
+*.log
+*.tmp
