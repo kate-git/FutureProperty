@@ -5,3 +5,5 @@ Saved/AutoScreenshot.png
 Intermediate/CachedAssetRegistry_0.bin
 Saved/Logs/FutureProperty.log
 Intermediate/CachedAssetRegistry_0.bin
+*.ini
+*.log
