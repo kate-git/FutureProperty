@@ -43,6 +43,10 @@
 		{
 			"Name": "UIFramework",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
